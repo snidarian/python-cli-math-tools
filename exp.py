@@ -5,8 +5,8 @@ import argparse
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument("base", help="base integer (1st argument", type=int)
-parser.add_argument("exponent", help="exponent integer (2nd argument", type=int)
+parser.add_argument("base", help="base (1st argument", type=float)
+parser.add_argument("exponent", help="exponent (2nd argument", type=float)
 parser.add_argument("-v", "--verbose", help="Verbose output", action="store_true")
 
 args = parser.parse_args()
