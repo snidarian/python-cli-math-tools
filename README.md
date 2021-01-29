@@ -17,6 +17,7 @@ Command line math tools written in python.
 - cubing single number
 - square root
 - taking average of an indefinite list of integer entries
-- more to come
+- factorials
+- sample variance, sample std deviation, margin of error calculator
 
 
