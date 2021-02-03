@@ -22,3 +22,5 @@ Command line math tools written in python.
 - sample variance, sample std deviation, margin of error calculator
 
 
+
+
