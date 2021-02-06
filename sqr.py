@@ -2,6 +2,7 @@
 # change above shebang line to reflect absolute path to preferred python interpreter
 # takes single integer/float value and displays its square to stdout
 
+
 import argparse
 
 parser = argparse.ArgumentParser()
@@ -22,3 +23,4 @@ else:
 
 
 
+    
