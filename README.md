@@ -12,7 +12,7 @@ These will all eventually be converted to be able to interact with each other (m
 - circle.py - calculate circle math
 - cube.py - cubes single number argv[1]
 - sqrt.py - Takes square root of argv[1] and prints to screen
-
+- total.py - cli program that outputs sum total of indefinite list of supplied float/int args
 
 
 
