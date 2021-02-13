@@ -8,9 +8,7 @@ Command line math tools written in python.
 - sqr.py squaring single number
 - exp.py raises arvg[1] to the power of argv[2]
 - int_gen.py generates random integers [n quantity] from [n] to [n] range - displays to stdout - can be piped >> and redirected for various purposes
-
-
-
+- crcl.py - calculate circle math
 
 
 
