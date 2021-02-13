@@ -18,7 +18,6 @@ These will all eventually be converted to be able to interact with each other (m
 
 ### Plans to support:
 
-- square root
 - taking average of an indefinite list of integer entries
 - factorials
 - sample variance, sample std deviation, margin of error calculator
