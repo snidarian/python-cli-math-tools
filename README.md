@@ -14,11 +14,10 @@ These will all eventually be converted to be able to interact with each other (m
 - sqrt.py - Takes square root of argv[1] and prints to screen
 - total.py - cli program that outputs sum total of indefinite list of supplied float/int args
 - avg.py - Averages list of command line arguments
-
+- factorial.py - Recursively calculates factorial of integer argument and returns/prints to stdout.
 
 ### Plans to support:
 
-- factorials
 - sample variance, sample std deviation, margin of error calculator
 
 
