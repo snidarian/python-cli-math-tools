@@ -15,10 +15,10 @@ These will all eventually be converted to be able to interact with each other (m
 - total.py - cli program that outputs sum total of indefinite list of supplied float/int args
 - avg.py - Averages list of command line arguments
 - factorial.py - Recursively calculates factorial of integer argument and returns/prints to stdout.
+- samstdev.py - outputs sample variance, sample std deviation, sample mean from sample population cli args
 
 ### Plans to support:
 
-- sample variance, sample std deviation, margin of error calculator
 
 
 
