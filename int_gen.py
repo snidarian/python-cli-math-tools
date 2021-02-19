@@ -12,6 +12,10 @@ args = parser.add_argument("quantity", help="quantity of random integers", type=
 args = parser.add_argument("start", help="begining of integer range", type=int)
 args = parser.add_argument("end", help="ending of integer range", type=int)
 
+# Add sorting functionality to the output of this program
+args = partser.add_argument("-s", "--sort", help="Sorts output", action="store_true")
+
+
 args = parser.parse_args()
 
 count = 0
